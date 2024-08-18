@@ -5,7 +5,7 @@ title: "About"
 
 Bonjour, wah gwaan, `print(“Hello, world!”)`. I’m Georgette Graham, and I’ve created this space to share my thoughts on life and work.
 
-![Description of image](/assets/images/about-page.jpeg){: .align-center}
+![Georgette stooping to tie her shoelaces](/assets/images/about-page.jpeg){: .align-center}
 
 I began my career in corporate commercial law in Kingston, Jamaica, before swapping my bib for algorithms. Now, I am a data scientist in financial regulation. While this isn’t the final destination on my career journey, I thoroughly enjoy exploring emerging technologies and their impact on both the financial and legal industries. 
 

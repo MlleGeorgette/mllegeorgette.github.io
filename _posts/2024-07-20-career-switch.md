@@ -10,7 +10,7 @@ tags:
   - law
 ---
 
-![Description of image](/assets/images/posts/breakfast-pic.jpeg){: .align-center}
+![Breakfast of scrambled eggs, hash browns, buttered bread, baby leaves, grapes, and orange juice](/assets/images/posts/breakfast-pic.jpeg){: .align-center}
 
 Making a career switch is not for the faint of heart. Here’s my recipe for baking the jump. Customise it as needed to suit your own journey.
 <!--more-->
