@@ -7,6 +7,16 @@ title: "Gallery"
  <!-- Adjust Image Size: If you want smaller or larger images, change the minmax(200px, 1fr) value. Increasing the minimum size will make each image larger, while decreasing it will make them smaller. Gap Between Items: Adjust the gap: 20px; to increase or decrease the space between each grid item. -->
 
   <div class="gallery-item" style="text-align: center;">
+    <img src="/assets/images/gallery/jacques-chaban-delmas-bridge-2024.jpeg" alt="Pont Jacques Chaban Delmas, Bordeaux" style="width: 100%; height: auto; border-radius: 5px;">
+    <div class="caption" style="margin-top: 10px; font-size: 0.8em;">Pont Jacques Chaban Delmas, Bordeaux | 2024</div>
+  </div>
+
+  <div class="gallery-item" style="text-align: center;">
+    <img src="/assets/images/gallery/chateau-la-cheze-2024.jpeg" alt="Chateau la Cheze, Floirac" style="width: 100%; height: auto; border-radius: 5px;">
+    <div class="caption" style="margin-top: 10px; font-size: 0.8em;">Hotel Château La Chèze, Floirac | 2024</div>
+  </div>
+  
+ <div class="gallery-item" style="text-align: center;">
     <img src="/assets/images/gallery/blue-mountain-2023.jpeg" alt="Blue Mountains, Jamaica" style="width: 100%; height: auto; border-radius: 5px;">
     <div class="caption" style="margin-top: 10px; font-size: 0.8em;">Blue Mountains, Jamaica | 2023</div>
   </div>
@@ -15,7 +25,7 @@ title: "Gallery"
     <img src="/assets/images/gallery/one-wtc-new-york-2023.jpeg" alt="One WTC, New York City" style="width: 100%; height: auto; border-radius: 5px;">
     <div class="caption" style="margin-top: 10px; font-size: 0.8em;">One WTC, New York City | 2023</div>
   </div>
-  
+
   <div class="gallery-item" style="text-align: center;">
     <img src="/assets/images/gallery/belgrade-2023.jpeg" alt="Belgrade Fortress" style="width: 100%; height: auto; border-radius: 5px;">
     <div class="caption" style="margin-top: 10px; font-size: 0.8em;">Belgrade Fortress | 2023</div>

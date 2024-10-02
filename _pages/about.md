@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-Bonjour, wah gwaan, `print(“Hello, world!”)`. I’m Georgette Graham, and I’ve created this space to share my thoughts on life and work.
+Bonjour, wah gwaan, `print(“Hello, world!”)`. I’m S. Georgette Graham, and I’ve created this space to share my thoughts on life and work.
 
 ![Georgette stooping to tie her shoelaces](/assets/images/about-page.jpeg){: .align-center}
 
