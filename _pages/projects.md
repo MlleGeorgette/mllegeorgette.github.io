@@ -40,6 +40,12 @@ Check out my work.
 </div>
 
 <div style="text-align: center;">
+  <h3 style="font-size: 0.9em; margin-top: 10px;">Libby Highlights App</h3>
+  <img src="/assets/images/projects/libby-book-highlights-app.jpeg" alt="Libby book highlights app" style="width: 80%; height: auto; border-radius: 5px;">
+  <p style="font-size: 0.8em; margin: 5px 0; line-height: 1.4;">Streamlit app to manage my Libby highlights. See the repo on <a href="https://github.com/MlleGeorgette/libby-book-highlights-app/tree/main">GitHub</a>.</p>
+</div>
+
+<div style="text-align: center;">
   <h3 style="font-size: 0.9em; margin-top: 10px;">Building this website 😊</h3>
   <img src="/assets/images/projects/website-screenshot.jpeg" alt="Screenshot of website header" style="width: 80%; height: auto; border-radius: 5px;">
 </div>
