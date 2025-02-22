@@ -20,7 +20,7 @@ We are naturally drawn to causes that resonate with our personal experiences. In
 
 Then, suddenly, Ms. Mac became very ill. Before I knew it, I was on a bus with a delegation from my primary school, travelling halfway across Jamaica to attend her funeral. If my memory is correct, she had lost her battle with cancer.
 
-As I grew older, I encountered similar stories. My grandfather succumbed to cancer, and so did the mother of a friend in the community as well as a junior student in high school. Raising awareness about cancer is important to me. It is the leading cause of death worldwide, yet early detection through regular screening can significantly reduce mortality.
+As I grew older, I encountered similar stories. My grandfather succumbed to cancer, and so did the mother of a friend in the community as well as a junior student in high school. Raising awareness about cancer is important to me. It is the leading cause of death worldwide, yet early detection through regular screening can significantly reduce mortality. I don’t profess to be knowledgeable about cancer but I know it’s something I’m keen to support the fight.
 
 <div style="margin-top: 20px; font-weight: bold;">
   Skydiving
