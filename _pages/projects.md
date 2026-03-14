@@ -46,6 +46,12 @@ Check out my work.
 </div>
 
 <div style="text-align: center;">
+  <h3 style="font-size: 0.9em; margin-top: 10px;">Libby Highlights App 2.0</h3>
+  <img src="/assets/images/projects/lovable-libby-book-highlight-app.jpg" alt="Lovable Libby book highlights app" style="width: 80%; height: auto; border-radius: 5px;">
+  <p style="font-size: 0.8em; margin: 5px 0; line-height: 1.4;">Lovable app to manage my Libby highlights. Figured I'd jump on the vibe coding wave! Check it out <a href="https://georgettereads.lovable.app">here</a>.</p>
+</div>
+
+<div style="text-align: center;">
   <h3 style="font-size: 0.9em; margin-top: 10px;">Building this website 😊</h3>
   <img src="/assets/images/projects/website-screenshot.jpeg" alt="Screenshot of website header" style="width: 80%; height: auto; border-radius: 5px;">
 </div>

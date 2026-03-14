@@ -7,7 +7,7 @@ Bonjour, wah gwaan, `print(“Hello, world!”)`. I’m S. Georgette Graham, and
 
 ![Georgette stooping to tie her shoelaces](/assets/images/about-page.jpeg){: .align-center}
 
-I began my career in corporate commercial law in Kingston, Jamaica, before swapping my bib for algorithms. Now, I am a data scientist in financial regulation. While this isn’t the final destination on my career journey, I thoroughly enjoy exploring emerging technologies and their impact on both the financial and legal industries. 
+I began my career in corporate commercial law in Kingston, Jamaica, before swapping my bib for algorithms. Now, I am a data scientist in financial regulation...err, not anymore! I'm now in fintech and AI policy-ish. While this isn’t the final destination on my career journey, I thoroughly enjoy exploring emerging technologies and their impact on both the financial and legal industries. 
 
 My journey hasn’t been all smooth sailing. I’ve funded my studies with scholarships, worked while going to school, and even made the bold decision to fly halfway across the world to switch careers. These experiences have helped shape my resilient personality and fuel my passion for continuous learning.
 

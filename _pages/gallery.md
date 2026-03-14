@@ -7,6 +7,16 @@ title: "Gallery"
  <!-- Adjust Image Size: If you want smaller or larger images, change the minmax(200px, 1fr) value. Increasing the minimum size will make each image larger, while decreasing it will make them smaller. Gap Between Items: Adjust the gap: 20px; to increase or decrease the space between each grid item. -->
 
   <div class="gallery-item" style="text-align: center;">
+    <img src="/assets/images/gallery/maasai-mara-2026.jpg" alt="Maasai Mara, Kenya" style="width: 100%; height: auto; border-radius: 5px;">
+    <div class="caption" style="margin-top: 10px; font-size: 0.8em;">Maasai Mara National Reserve, Kenya | 2026</div>
+  </div>
+
+  <div class="gallery-item" style="text-align: center;">
+    <img src="/assets/images/gallery/zermatt-2025.jpg" alt="Matterhorn Mountain, Switzerland" style="width: 100%; height: auto; border-radius: 5px;">
+    <div class="caption" style="margin-top: 10px; font-size: 0.8em;">Matterhorn Mountain, Zermatt, Switzerland | 2025</div>
+  </div>
+  
+  <div class="gallery-item" style="text-align: center;">
     <img src="/assets/images/gallery/jacques-chaban-delmas-bridge-2024.jpeg" alt="Pont Jacques Chaban Delmas, Bordeaux" style="width: 100%; height: auto; border-radius: 5px;">
     <div class="caption" style="margin-top: 10px; font-size: 0.8em;">Pont Jacques Chaban Delmas, Bordeaux | 2024</div>
   </div>
